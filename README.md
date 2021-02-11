@@ -11,7 +11,7 @@
 
 ## Problem Sets
 
-* [] 0: Turtle Graphics
+* [ ] 0: Turtle Graphics
 * [] 1: Tweet Tweet
 * [] 2: Poetic Walks
 * [] 3: Expressivo
