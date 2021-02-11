@@ -10,6 +10,30 @@
 
 * [Typescript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 
+## Instructions
+
+### Installing TypeScript
+
+There are two main ways to get the TypeScript available for your project:
+
+* Via npm (the Node.js package manager)
+* By installing TypeScript’s Visual Studio plugins
+
+Visual Studio 2017 and Visual Studio 2015 Update 3 include TypeScript by default. If you didn’t install TypeScript with Visual Studio, you can still download it.
+
+For npm users:
+
+```bash
+
+> npm install -g typescript
+
+```
+
+### Course plan
+
+You may choose to follow the general course guideline i.e 2 sessions/ topics per week over 12 weeks.
+Or at own pace.
+
 ## Problem Sets
 
 * [ ] 0: Turtle Graphics
@@ -31,6 +55,8 @@
 ## Quiz Archive
 
 ## Readings
+
+Refer to course website for Study Material
 
 * [ ] 01: Static Checking
 * [ ] 02: Basic Typescript
