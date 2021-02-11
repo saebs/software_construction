@@ -56,7 +56,8 @@ Or at own pace.
 
 ## Readings
 
-Refer to course website for Study Material
+Refer to [course website](https://ocw.mit.edu/ans7870/6/6.005/s16/index.html)
+for reading material
 
 * [ ] 01: Static Checking
 * [ ] 02: Basic Typescript
