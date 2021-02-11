@@ -1,8 +1,8 @@
 # Software Construction
 
  This project is for personal self teaching purposes. It is adapted from [6.005 Software Construction on MIT OpenCourseWare](https://ocw.mit.edu/ans7870/6/6.005/s16/index.html)
- The goal is to learn/relearn the Art of Software from one of the best Universities in the World. The original course uses Java *sigh as the programming language of instruction. I'll be using Typescript instead to learn it and to try avoid any [copyright infringements on Problem Sets](https://ocw.mit.edu/ans7870/6/6.005/s16/general/collaboration.html)
- You are free however to resuse, review ,or critic Typscript code in this repository
+ My goal is to fill gaps in my understanding of the Art of Software Construction from one of the best Universities in the World. The original course uses Java *sigh as the programming language of instruction. I'll be using Typescript instead to learn it and to try avoid any [copyright infringements on Problem Sets](https://ocw.mit.edu/ans7870/6/6.005/s16/general/collaboration.html)
+ You are free however to resuse any work, critic or review code in this repository. Comments are open.
 
  MIT course webite [6.005 — Software Construction on MIT OpenCourseWare -Spring 2016](https://ocw.mit.edu/ans7870/6/6.005/s16/index.html)
 
