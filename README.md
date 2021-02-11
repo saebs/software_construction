@@ -1,9 +1,9 @@
 # software_construction  MIT course 6.005
 
-* This project is for self teaching purposes adapted from [6.005 Software Construction on MIT OpenCourseWare](https://ocw.mit.edu/ans7870/6/6.005/s16/index.html)
-* The goal is to learn/relearn the Art of Software from one of the best Universities in the World as well. The original course uses Java (Oh boy) as implentation Language. I'll be using Typescript to learn it and to avoid [starter java code Copyrights](https://ocw.mit.edu/ans7870/6/6.005/s16/general/collaboration.html)
+ This project is for self teaching purposes adapted from [6.005 Software Construction on MIT OpenCourseWare](https://ocw.mit.edu/ans7870/6/6.005/s16/index.html)
+ The goal is to learn/relearn the Art of Software from one of the best Universities in the World as well. The original course uses Java (Oh boy) as implentation Language. I'll be using Typescript to learn it and to avoid [starter java code Copyrights](https://ocw.mit.edu/ans7870/6/6.005/s16/general/collaboration.html)
 
-* MIT course webite [6.005 — Software Construction on MIT OpenCourseWare -Spring 2016](https://ocw.mit.edu/ans7870/6/6.005/s16/index.html)
+ MIT course webite [6.005 — Software Construction on MIT OpenCourseWare -Spring 2016](https://ocw.mit.edu/ans7870/6/6.005/s16/index.html)
 
 ## Getting Started
 
@@ -11,11 +11,11 @@
 
 ## Problem Sets
 
-*-[] 0: Turtle Graphics
-*-[] 1: Tweet Tweet
--[] 2: Poetic Walks
--[] 3: Expressivo
--[] 4: Multiplayer Minesweeper
+[] 0: Turtle Graphics
+[] 1: Tweet Tweet
+[] 2: Poetic Walks
+[] 3: Expressivo
+[] 4: Multiplayer Minesweeper
 
 ## Project
 
