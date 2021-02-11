@@ -1,27 +1,34 @@
 # software_construction  MIT course 6.005
-This project is for self teaching purposes adapted from [6.005 — Software Construction on MIT OpenCourseWare ](https://ocw.mit.edu/ans7870/6/6.005/s16/index.html)
-The goal is to learn/relearn the Art of Software from one of the best Universities in the World as well. The original course uses Java (Oh boy) as implentation Language. I'll be using Typescript to learn it and to avoid (starter java code Copyrights)[https://ocw.mit.edu/ans7870/6/6.005/s16/general/collaboration.html]
-*MIT course webite [6.005 — Software Construction on MIT OpenCourseWare -Spring 2016 ](https://ocw.mit.edu/ans7870/6/6.005/s16/index.html)
+
+This project is for self teaching purposes adapted from [6.005 Software Construction on MIT OpenCourseWare](https://ocw.mit.edu/ans7870/6/6.005/s16/index.html)
+The goal is to learn/relearn the Art of Software from one of the best Universities in the World as well. The original course uses Java (Oh boy) as implentation Language. I'll be using Typescript to learn it and to avoid [starter java code Copyrights](https://ocw.mit.edu/ans7870/6/6.005/s16/general/collaboration.html)
+*MIT course webite [6.005 — Software Construction on MIT OpenCourseWare -Spring 2016](https://ocw.mit.edu/ans7870/6/6.005/s16/index.html)
+
 ## Getting Started
+
 * [Typescript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 
-##Problem Sets
--[] 0: Turtle Graphics
+## Problem Sets
+
+[] 0: Turtle Graphics
 -[] 1: Tweet Tweet
 -[] 2: Poetic Walks
 -[] 3: Expressivo
 -[] 4: Multiplayer Minesweeper
 
-##Project
+## Project
+
 *ABC Music Player
 
 ## Quizzes
+
 [Quiz 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/quizzes/MIT6_005S16_Quiz1.pdf) and [Quiz 1 solutions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/quizzes/MIT6_005S16_Quiz1_soln.pdf)
 [Quiz 2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/quizzes/MIT6_005S16_Quiz2.pdf) and [Quiz 2 solutions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/quizzes/MIT6_005S16_Quiz2_soln.pdf)
 
-Quiz Archive
+## Quiz Archive
 
 ## Readings
+
 -[] 01: Static Checking
 -[] 02: Basic Typescript
 -[] 03: Testing
