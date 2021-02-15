@@ -1,10 +1,15 @@
 # Software Construction
 
- This project is for personal self teaching purposes. It is adapted from [6.005 Software Construction on MIT OpenCourseWare](https://ocw.mit.edu/ans7870/6/6.005/s16/index.html)
- My goal is to fill gaps in my understanding of the Art of Software Construction from one of the best Universities in the World. The original course uses Java *sigh as the programming language of instruction. I'll be using Typescript instead to learn it and to try avoid any [copyright infringements on Problem Sets](https://ocw.mit.edu/ans7870/6/6.005/s16/general/collaboration.html)
- You are free however to resuse any work, critic or review code in this repository. Comments are open.
+ This project is for personal self teaching purposes. It is based on ojectives, and reading material from the course [6.005: Software Construction](http://web.mit.edu/6.005/www/sp16/)
+The goal is to fill gaps in understanding and practise the Art of Software Construction from one of the best Universities in the World, and to learn Typecript while at it.
+ 
+# Disclaimer
+The original course uses Java as the programming language of instruction. Reasonable attempts have been made to not infringe on the course intellectual property particularly java starter code by way of using a different implementation programming language [collaboration](http://web.mit.edu/6.005/www/sp16/general/collaboration.html)
+The problem sets have been designed by the course staff however. If you find this repository out of line please advise accordingly and your request will be considered.
 
- MIT course webite [6.005 — Software Construction on MIT OpenCourseWare -Spring 2016](https://ocw.mit.edu/ans7870/6/6.005/s16/index.html)
+MIT course webite [6.005: Software Construction - Spring 2016](http://web.mit.edu/6.005/www/sp16/)
+
+
 
 ## Getting Started
 
@@ -48,11 +53,11 @@ Or at own pace.
 
 ## Quizzes
 
-[Quiz 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/quizzes/MIT6_005S16_Quiz1.pdf) and [Quiz 1 solutions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/quizzes/MIT6_005S16_Quiz1_soln.pdf)
+[Quiz 1](http://web.mit.edu/6.005/www/sp16/quizzes/archive/quiz1.pdf) and [Quiz 1 solutions](http://web.mit.edu/6.005/www/sp16/quizzes/archive/quiz1_soln.pdf)
 
-[Quiz 2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/quizzes/MIT6_005S16_Quiz2.pdf) and [Quiz 2 solutions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/quizzes/MIT6_005S16_Quiz2_soln.pdf)
+[Quiz 2](http://web.mit.edu/6.005/www/sp16/quizzes/archive/quiz2.pdf) and [Quiz 2 solutions](http://web.mit.edu/6.005/www/sp16/quizzes/archive/quiz2_soln.pdf)
 
-## Quiz Archive
+[Quiz Archive](http://web.mit.edu/6.005/www/sp16/quizzes/archive/)
 
 ## Readings
 
