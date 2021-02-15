@@ -1,11 +1,11 @@
 # Software Construction
 
- This project is for personal self teaching purposes. It is based on ojectives, and reading material from the course [6.005: Software Construction](http://web.mit.edu/6.005/www/sp16/)
+ This project is for self teaching purposes. It is based on the ojectives and reading material from the MIT Course [6.005: Software Construction](http://web.mit.edu/6.005/www/sp16/)
 The goal is to fill gaps in understanding and practise the Art of Software Construction from one of the best Universities in the World, and to learn Typecript while at it.
  
 # Disclaimer
-The original course uses Java as the programming language of instruction. Reasonable attempts have been made to not infringe on the course intellectual property particularly java starter code by way of using a different implementation programming language [collaboration](http://web.mit.edu/6.005/www/sp16/general/collaboration.html)
-The problem sets have been designed by the course staff however. If you find this repository out of line please advise accordingly and your request will be considered.
+Although the reference course material is in the public domain for consumption, Reasonable attempts have been made to adhere to [collaboration and sharing guidelines](http://web.mit.edu/6.005/www/sp16/general/collaboration.html). This project uses Typescript as replacement for the Java language used in the original.
+The problem sets and quizes have been designed by the course staff however. If you find this repository out of line please advise accordingly and your request will be considered.
 
 MIT course webite [6.005: Software Construction - Spring 2016](http://web.mit.edu/6.005/www/sp16/)
 
@@ -19,10 +19,11 @@ MIT course webite [6.005: Software Construction - Spring 2016](http://web.mit.ed
 
 ### Installing TypeScript
 
-There are two main ways to get the TypeScript available for your project:
+These are some ways to get the TypeScript available for your project:
 
 * Via npm (the Node.js package manager)
 * By installing TypeScript’s Visual Studio plugins
+* By installing Intellij Rider IDE (Typscript support out of the box)
 
 Visual Studio 2017 and Visual Studio 2015 Update 3 include TypeScript by default. If you didn’t install TypeScript with Visual Studio, you can still download it.
 
